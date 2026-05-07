@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>SECAD 2027 — Lima, Perú</title>
+  <title>SECAD</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { background: #060d1c; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
